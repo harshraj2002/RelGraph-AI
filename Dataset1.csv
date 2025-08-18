@@ -1,0 +1,12 @@
+ID,Analyst,Trend Name,Domain,Region,Insight Type,Attachment
+E1,Sam,Remote Diagnostics,Healthcare,APAC,Emerging Tech,remote_diag_trend.pdf
+E2,Lisa,AI-Enabled Workflows,Manufacturing,Global,Process,ai_workflow_chart.mp4
+E3,Arjun,Predictive Maintenance,Utilities,India,Operational,predictive_mx.ppt
+E4,Meena,Self-serve Dashboards,Retail,US,UI/UX,dashboards_video.mp4
+E5,Dev,Edge AI,Transportation,Europe,Technology,edge_ai_brief.wav
+E6,Neha,Voice Interaction,MedTech,Global,UX,voice_trends.pdf
+E7,Tarun,Energy Optimization,Clean Energy,India,Engineering,energy_optima.mp4
+E8,Sneha,AI in Underwriting,Insurance,SEA,Business Model,underwriting_ai_chart.mp4
+E9,Alex,Zero Trust Security,IT Infra,Global,Security,zero_trust_intro.wav
+E10,Anu,GenAI in Content Creation,Media,India,Innovation,genai_media_report.pdf
+E11,Ravi,AI-Powered Personalization,Commerce,Europe,Customer Experience,personalization_report.mp4

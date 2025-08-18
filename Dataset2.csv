@@ -1,0 +1,12 @@
+ID,User,Feature,Issue Type,Description,Status,Uploaded File
+I1,Alice,Login,Bug,Login button not responding,Open,login_issue.mp4
+I2,Bob,Dashboard,Enhancement,Add KPI trends,Closed,dashboard_request.pdf
+I3,Eve,Notifications,Feedback,Too many alerts,Open,feedback_voice.wav
+I4,Raj,Reporting,Bug,Missing charts on export,Closed,report_bug.png
+I5,Anita,Dashboard,Feedback,Confusing UI colors,Open,ui_colors.mp3
+I6,Kumar,Settings,Enhancement,Request for dark mode,Closed,dark_mode_suggestion.pdf
+I7,John,Alerts,Bug,Alert doesn't trigger for critical event,Open,alert_issue_screen.mp4
+I8,Sara,Login,Feedback,Login UX confusing,Open,login_feedback_audio.wav
+I9,Mike,Settings,Feedback,Too many options,Open,settings_feedback.wav
+I10,Riya,Dashboard,Bug,Trendline missing,Open,trendline_missing.mp4
+I11,Sam,Profile,Enhancement,Add two-factor authentication,Open,2fa_request.pdf

@@ -1,0 +1,12 @@
+ID,Contributor,Feature,Domain,Status,Impact Area,Attachment
+N1,Rina,AI-Driven Customer Segmentation,Marketing,In Pipeline,Personalization,ai_segmentation.pptx
+N2,Arvind,Cloud-based Collaboration Tools,Enterprise,Approved,Productivity,collaboration_tools.pdf
+N3,Meera,Real-Time Sentiment Analysis,Social Media,Under Review,Engagement,sentiment_analysis.mp4
+N4,Kiran,Automated Fraud Prevention,FinTech,Approved,Risk Management,fraud_prevention.mp4
+N5,Priya,Chatbot for Customer Support,Telecom,Draft,Customer Experience,chatbot_design.pdf
+N6,Sandeep,AI-powered Marketing Automation,Retail,Under Review,Efficiency,marketing_automation.ppt
+N7,Dev,Blockchain-based Voting System,Governance,Approved,Transparency,blockchain_voting.ppt
+N8,Kavya,Digital Twins for Manufacturing,Manufacturing,In Pipeline,Innovation,digital_twins.mp4
+N9,Neha,Predictive Maintenance for IoT,IoT,Open,Operational,predictive_maintenance.mp3
+N10,Aakash,AR for Virtual Shopping,Retail,Closed,Customer Experience,virtual_shopping.mp4
+N11,Meenal,Self-Learning AI Algorithms,AI,Under Review,Innovation,self_learning_ai.pdf
