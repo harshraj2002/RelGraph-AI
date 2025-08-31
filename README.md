@@ -1,6 +1,6 @@
 # RelGraph AI
 
-- Relationship Prediction Knowledge Graph System
+A Relationship Prediction Knowledge Graph System.
 
 A specialized AI system built on Neo4j knowledge graphs that focuses on training and predicting relationships between entities. RelGraph AI learns from graph patterns and provides accurate relationship predictions with session-based accuracy tracking.
 
