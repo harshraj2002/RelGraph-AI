@@ -1,4 +1,4 @@
-# RelGraph AI 
+# RelGraph AI
 
 - Relationship Prediction Knowledge Graph System
 
